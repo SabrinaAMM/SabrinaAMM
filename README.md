@@ -18,9 +18,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaAMM)](https://github.com/SabrinaAMM/github-readme-stats)
 
 
-<a href="https://github.com/SabrinaAMM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaAMM&&hide=stars,prs&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/SabrinaAMM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaAMM" />
-</a>
